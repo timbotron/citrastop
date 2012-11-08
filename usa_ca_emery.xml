@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<publictrans country="USA" state="CA" name="Emery Go Round">
+    <route id="1" name="Powell">
+        <stop id="5313" name="Christie at Powell St. Plaza" />
+        <stop id="5322" name="Christie at Shellmound" />
+    </route>
+    <route id="2" name="Hollis">
+        <stop id="5319" name="Hollis at 59th" />
+    </route>
+    <route id="3" name="Watergate Express AM">
+        <stop id="5344" name="Powell at Hilton Garden Inn" />
+        <stop id="" name="" />
+    </route>
+</publictrans>
